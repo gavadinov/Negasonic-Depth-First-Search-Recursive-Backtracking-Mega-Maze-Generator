@@ -1,0 +1,1 @@
+const cellWidth = 20;
